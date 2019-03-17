@@ -9,3 +9,7 @@ Trained and finetuned a model based on resnet34 weights for accident recognition
 **Full demo**
 
 ![Demo](ressources/final_output.gif)
+
+**Dataset and models**
+
+The dataset and its sources (url mainly) and all the trained models during the competition can be found on this [link](https://drive.google.com/file/d/1_D-5OdCVTxRxY1lHZ1ooNzKMZQyo-tAZ/view?usp=sharing)
