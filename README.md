@@ -1,5 +1,5 @@
 # algo-ia
-![logo](ressources/logo-frigga-white.png)
+![logo](ressources/logo-frigga.png)
 
 Deep Learning part of the Datathon Energie et Mobilité organized by CRE and ARAFER
 Used YOLO for object detection and Darknet as a feature extractor
