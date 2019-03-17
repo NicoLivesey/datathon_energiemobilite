@@ -8,4 +8,4 @@ Trained and finetuned a model based on resnet34 weights for accident recognition
 
 **Full demo**
 
-![Demo](output.avi)
+![Demo](ressources/final_output.gif)
