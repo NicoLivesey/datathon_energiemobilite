@@ -7,3 +7,5 @@ Trained and finetuned a model based on resnet34 weights for accident recognition
 ![GitHub Logo](ressources/cm.png)
 
 **Full demo**
+
+![Demo](output.avi)
